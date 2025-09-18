@@ -14,8 +14,4 @@ A modern responsive landing page built with **React + Bootstrap** for showcasing
 - React Scroll
 - Bootstrap Icons
 
-## 📷 Screenshots
-(Add screenshots here after deploying)
 
-## 🔗 Live Demo
-(Link will be here after deployment)
